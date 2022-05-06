@@ -1,8 +1,8 @@
 {
     "env": {
-        "MONGO_USER": "sofia",
-        "MONGO_PASSWORD": "",
+        "MONGO_USER": "sofiacarf",
+        "MONGO_PASSWORD": "Codexpress25",
         "MONGO_DEFAULT_DATABASE": "shop",
-        "STRIPE_KEY": ""
+        "STRIPE_KEY": "sk_test_51KwFMXLM3q2WW8m03g687QYXQbHu4vLapVkWkDRSycBv16ZzJqCEP1Uhte07JU5V88J72VX5dEDAzghwuK65RVHq00Ps9ILVka"
     }
 }
